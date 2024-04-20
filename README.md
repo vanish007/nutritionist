@@ -5,7 +5,4 @@
 ![Static Badge](https://img.shields.io/badge/Telegram-%2326A5E4?logo=telegram&link=t.me%2Fivanerofeev01)
 ![Static Badge](https://img.shields.io/badge/Gmail-white?logo=gmail)
 
-
-
-_Hello. The app is currentrly in a proccess of creating._
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=2000&color=FF0000&repeat=false&random=false&width=486&height=25&lines=The+app+is+currently+in+a+process+of+creating.)](https://git.io/typing-svg)
