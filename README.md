@@ -1,2 +1,4 @@
-# nutritionist
-An app that helps you eat healthy
+###### Made by _Ivan Erofeev_
+# Nutritionist
+
+Hello. The app is currentrly in a proccess of creating.
